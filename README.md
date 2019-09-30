@@ -6,3 +6,5 @@ The CSUEB Shuttle application is now available on the Google PlayStore. [Credits
 
 ## Demo:
 https://karan-monga.github.io/Shuttle-App-Website/
+
+[![HitCount](http://hits.dwyl.io/karan-monga/karan-monga/Shuttle-App-Website.svg)](http://hits.dwyl.io/karan-monga/karan-monga/Shuttle-App-Website)
